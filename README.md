@@ -19,3 +19,10 @@ The script here is an example of a low Virtual User (VU) load test of the excell
 https://swapi.dev/
 
 If you're tinkering with the script, it is just a friendly open source API, be gentle!
+
+-----
+
+## Running Example
+```
+http://localhost:3000/d/k6/k6-load-testing-results?orgId=1&refresh=5s
+```
